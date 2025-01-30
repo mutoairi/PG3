@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K023G\\Downloads\\main3-1\u30D2\u30F3\u30C8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +45,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main3-1\u30D2\u30F3\u30C8.cpp",
+              "DocumentMoniker": "C:\\Users\\K023G\\Downloads\\main3-1\u30D2\u30F3\u30C8.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\main3-1\u30D2\u30F3\u30C8.cpp",
+              "ToolTip": "C:\\Users\\K023G\\Downloads\\main3-1\u30D2\u30F3\u30C8.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\main3-1\u30D2\u30F3\u30C8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T20:55:38.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-09T07:41:21.654Z",
               "EditorCaption": ""
