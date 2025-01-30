@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2C25F6C1-84B0-4F29-B6C2-6CE933DB4DFA}|PG3.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,39 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\Enemy.cpp",
-              "RelativeDocumentMoniker": "Enemy.cpp",
-              "ToolTip": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\Enemy.cpp",
-              "RelativeToolTip": "Enemy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T04:53:04.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enemy.h",
-              "DocumentMoniker": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\Enemy.h",
-              "RelativeDocumentMoniker": "Enemy.h",
-              "ToolTip": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\Enemy.h",
-              "RelativeToolTip": "Enemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-30T04:51:57.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\K023G\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3\\PG3\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-09T07:41:21.654Z",
               "EditorCaption": ""
